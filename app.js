@@ -10,6 +10,7 @@ function computerPlay() {
    return randomPlay;
  } 
  
+ 
  let result;
  function afterRound(playerSelection, computerSelection) { 
    console.log(playerSelection, computerSelection);
